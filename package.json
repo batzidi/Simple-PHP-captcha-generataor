@@ -1,0 +1,24 @@
+{
+  "name": "@batzidi/simple-php-captcha-generataor",
+  "version": "1.0.0",
+  "description": "Simple PHP captcha generator",
+  "main": "captcha.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batzidi/Simple-PHP-captcha-generataor.git"
+  },
+  "keywords": [
+    "captcha",
+    "php",
+    "generator"
+  ],
+  "author": "Ivan Zidarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/batzidi/Simple-PHP-captcha-generataor/issues"
+  },
+  "homepage": "https://github.com/batzidi/Simple-PHP-captcha-generataor#readme"
+}
